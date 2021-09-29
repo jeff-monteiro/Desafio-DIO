@@ -7,7 +7,7 @@
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
 ##
 
-  Olá, Meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia mesmo que durante a minha formação acadêmica esteja exercendo uma função admnistrativa na área fiscal na empresa em que estou alocado no momento. 
+  Olá, meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia mesmo que durante a minha formação acadêmica esteja exercendo uma função admnistrativa na área fiscal na empresa em que estou alocado no momento. 
  
  
   
@@ -19,9 +19,6 @@
 **Linguagens e Tecnologias:**
 
   Mesmo ainda que por pouco tempo me aventurei com as Linguagens C#, Java, Dart; Frameworks e outras tecnologias: React, Flutter, Spring e Git/GitHub. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma.
-<div style="display: inline_block"><br>  
-  <img align="center" alt="jeff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
 
 
   
@@ -33,13 +30,15 @@
 
    
 
-  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou estudando a stack Javascript.
+  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou estudando a stack Javascript e a linguagem Java.
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jeff-Nodejs" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> 
+  <img align="center" alt="jeff-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
 </div>
   
    
