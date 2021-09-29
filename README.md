@@ -1,22 +1,37 @@
 # **_Hello everyone!_**
 
-**Welcome to the my GitHubPage**
+**Welcome to my GitHubPage**
 
-   ##
+   
 
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
-##
+
 
   Olá, meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia mesmo que durante a minha formação acadêmica esteja exercendo uma função admnistrativa na área fiscal na empresa em que estou alocado no momento. 
  
- 
-  
- 
+
    
-  ##  
+  ##
   
   
-**Linguagens e Tecnologias:**
+  
+  
+#### **Linguagens e Tecnologias:**
+
+
+<a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
+
+
+  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na stack Javascript e linguagem Java.:rocket:  
+<div style="display: inline_block"><br>  
+  <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jeff-Node" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
+  <img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+</div>
+
 
   Mesmo ainda que por pouco tempo me aventurei com as Linguagens C#, Dart; Frameworks e outras tecnologias: Flutter, Spring e Git/GitHub. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma.
 <div style="display: inline_block"><br>
@@ -31,24 +46,6 @@
   
    ##
    
-   
-<a><img align="left" width="150" height="150" src="./assets/computerOn.webp"></a>
-
-
-  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na stack Javascript e linguagem Java.:rocket:  
-<div style="display: inline_block"><br>  
-  <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jeff-Node" height="140" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
-  <img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-</div>
-  
-   
-  
-
-   ##
   
   
 
@@ -56,7 +53,7 @@
 
 
 
-  Gosto de ler bons livros de drama, ficção científica, autobiografias e aventura. Meu livro preferido preferido até o momento é: A Teoria de Tudo, escrito por: Jane Hawking. Meus principais hobbies são tocar instrumentos musicais, cantar e jogar uma boa partida de futebol.
+  Gosto de ler bons livros de drama, ficção científica, autobiografias e aventura. Meu livro preferido até o momento é: A Teoria de Tudo, escrito por: Jane Hawking. Meus principais hobbies são tocar instrumentos musicais, cantar e jogar uma boa partida de futebol.
  
 
    ##
