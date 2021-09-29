@@ -30,14 +30,14 @@
 
    
 
-  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou estudando a stack Javascript e a linguagem Java.
+  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na stack Javascript e linguagem Java.
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jeff-Nodejs" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> 
+  <img align="center" alt="jeff-Nodejs" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"> 
   <img align="center" alt="jeff-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
 </div>
   
@@ -49,7 +49,7 @@
   
   
 
-**Leituras e Hobbies**
+**Leituras e Hobbies:**
 
   Gosto de ler bons livros de drama, ficção científica, autobiografias e aventura. Meu livro preferido preferido até o momento é: A Teoria de Tudo, escrito por: Jane Hawking. Meus principais hobbies são tocar instrumentos musicais, cantar e jogar uma boa partida de futebol.
  
