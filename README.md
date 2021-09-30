@@ -1,6 +1,6 @@
-# **_Hello everyone!_**
+# **_Faaala Dev!_**
 
-**Welcome to my GitHubPage**
+**Bem vindo a minha GitHubPage**
 
    
 
@@ -66,7 +66,6 @@
   Tenho conhecimento intermediário na língua Inglesa na qual sigo estudando. 
 
 
-Desafio do módulo de Git/GitHub, que aproveitei para criar meu Read.md/Portfólio
 
    ##
 
