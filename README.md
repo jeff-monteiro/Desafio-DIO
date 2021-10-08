@@ -1,4 +1,4 @@
-# **_Faaala Dev!_**
+# **_Faaala Dev ou Tech Recruiter!_**
 
 **Bem vindo a minha GitHubPage**
 
@@ -31,18 +31,17 @@
   <img align="center" alt="jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="jeff-cSharp" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="jeff-Git" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
 </div>
 <br>
 
 
-  Mesmo ainda que por pouco tempo me aventurei com a Linguagem Dart; Frameworks e outras tecnologias: Flutter, Spring e Git/GitHub. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma.
+  Mesmo ainda que por pouco tempo me aventurei com a Linguagem Dart; Frameworks e outras tecnologias: Flutter e Spring. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma.
   
 <div style="display: inline_block"><br>  
  <img align="center" alt="jeff-Dart" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
  <img align="center" alt="jeff-Flutter" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- <img align="center" alt="jeff-Spring" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
- <img align="center" alt="jeff-Git" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
+ <img align="center" alt="jeff-Spring" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
   
