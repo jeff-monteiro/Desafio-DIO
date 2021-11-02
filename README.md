@@ -22,7 +22,7 @@
 <a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
 
 
-  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na stack Javascript.:rocket: 
+  Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na stack Javascript. :rocket: 
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +34,7 @@
 <br>
 
 
-  Mesmo ainda que por pouco tempo me aventurei com a Linguagem Dart; Frameworks e outras tecnologias: Flutter e Spring. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma.
+  Mesmo ainda que por pouco tempo me aventurei com a Linguagem Dart; Frameworks e outras tecnologias: Flutter e Spring. Fiz um curso de Java OO onde tive o meu primeiro contato com tal paradigma. 🧑‍🚀
   
 <div style="display: inline_block"><br>  
  <img align="center" alt="jeff-Dart" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
