@@ -36,7 +36,7 @@
 <br>
 
 
-  Mesmo ainda que por pouco tempo me aventurei com o framework Spring e biblioteca React na qual sigo estudando. 
+  Mesmo ainda que por pouco tempo me aventurei com o framework Spring e bibliotecas React na qual sigo estudando. 
   
    <div style="display: inline_block"><br>  
     <img align="center" alt="jeff-React" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
