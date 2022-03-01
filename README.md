@@ -57,8 +57,7 @@
 <a><img align="right" width="150" height="150" src="./assets/ComfOK.webp"></a>
 **Línguas:**
 
-_**Português**_ </br>
-_**Inglês**_
+🇧🇷  🇺🇲</br>
 
   Tenho conhecimento intermediário na língua Inglesa na qual sigo estudando. 
 
