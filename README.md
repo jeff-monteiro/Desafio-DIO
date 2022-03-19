@@ -7,7 +7,7 @@
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
 
 ##
-  Olá, meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia, imergindo no mundo do desenvolvimento e inovação. 
+  Olá, meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia, imergindo no mundo do desenvolvimento e da inovação. 
  
 
    
