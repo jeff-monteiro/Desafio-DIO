@@ -10,18 +10,12 @@
   Olá, meu nome é Jefferson Monteiro, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia, imergindo no mundo do desenvolvimento e da inovação. 
  
 
-   
- 
-  
- 
-  
 
 
 <a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
 
 ##
 
-#### 
 **Linguagens e Tecnologias:**
 
   Apaixonado por tecnologia, busco atuar como desenvolvedor de sistemas, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na principal stack para web e linguagem Java. :rocket: 
