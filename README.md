@@ -1,25 +1,27 @@
-# **_Faaala Dev ou Tech Recruiter!_**
+# **_What's up Dev ou Tech Recruiter!_**
 
-**Bem vindo a minha GitHubPage**
+**Welcome to my GitHubPage**
 
    
 
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
 
    ##
-  Olá, meu nome é Jefferson Monteiro, sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá - UNESA, busco diariamente adquirir conhecimento sobre a área de tecnologia, imergindo no mundo do desenvolvimento e da inovação. Atualmente atuo no **Instituto Atlântico** como estagiário de qualidade de software.
+  Hi there! My name is Jefferson Monteiro, I'm a student of Systems Analysis and Development at Estácio de Sá University - UNESA, I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at **Instituto Atlântico** as a fullstack software developer.
  
 
    ##
 <br><a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
-**Linguagens e Tecnologias:**
+**Technologies:**
 
-  Apaixonado por tecnologia, colaborando para solução de problemas e melhorias na vida das pessoas através da tecnologia, atualmente estou focado na principal stack para web e na linguagem Java. :rocket: 
+  Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Java language and its technologies. :rocket: 
   
   And don't forget Java is Beatles! :smile:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="jeff-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="jeff-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jeff-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="jeff-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -36,21 +38,21 @@
   
   
 
-**Leituras e Hobbies:**
+**Readings and Hobbies:**
 
 
 
-  Gosto de ler bons livros de drama, ficção científica, autobiografias e aventura. Meu livro preferido até o momento é: A Teoria de Tudo, escrito por: Jane Hawking. Meus principais hobbies são tocar instrumentos musicais, cantar e jogar uma boa partida de futebol.
+  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good game of football.
  
 
    ##
   
 <a><img align="right" width="150" height="150" src="./assets/ComfOK.webp"></a>
-**Línguas:**
+**Languages:**
 
    🇧🇷 🇺🇸 <br>
 
-  Tenho conhecimento intermediário na língua Inglesa na qual sigo estudando e sou fluente na língua Portuguesa.
+  I'm intermediate student of the English language and I'm fluent in Portuguese.
 
 
 
