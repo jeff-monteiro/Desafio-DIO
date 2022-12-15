@@ -7,7 +7,7 @@
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
 
    ##
-  Hi there! My name is Jefferson Monteiro, I'm a student of Systems Analysis and Development at Estácio de Sá University - UNESA, I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at **Instituto Atlântico** as a software developer.
+  Hi there! My name is Jefferson Monteiro, I'm a student of Systems Analysis and Development at Estácio de Sá University - UNESA, I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at **Instituto Atlântico** as a software engineer.
  
 
    ##
