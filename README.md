@@ -14,9 +14,8 @@
 <br><a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
 **Technologies:**
 
-  Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Java language and its technologies. :rocket: 
+  Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Javacript and their stack. :rocket: 
   
-  And don't forget Java is Beatles! :smile:
   
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="jeff-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
