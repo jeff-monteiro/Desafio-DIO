@@ -43,7 +43,7 @@
 
 
 
-  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good game of football.
+  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good match of soccer.
  
 
    ##
