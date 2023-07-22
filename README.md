@@ -1,4 +1,4 @@
-# **_What's up Dev ou Tech Recruiter!_**
+# **_Hi there!_**
 
 **Welcome to my GitHubPage**
 
@@ -42,7 +42,7 @@
 
 
 
-  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good match of soccer.
+  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good match of soccer and enjoy surfboard.
  
 
    ##
