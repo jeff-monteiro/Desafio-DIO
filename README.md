@@ -64,6 +64,6 @@
   <a href="https://twitter.com/jeffmonteiro__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jeffmonteiro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/jeff-monteiro/jeff-monteiro/blob/output/github-snake-dark.svg?palette=github-dark)
+  ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  
 </div>
