@@ -7,7 +7,7 @@
 <a><img align="left" width="150" height="150" src="./assets/Hithere.webp"></a>
 
    ##
-  Hi there! My name is Jefferson Monteiro, I'm graduated in Systems Analysis and Development at Estácio de Sá University - UNESA, I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at **Instituto Atlântico** as software engineer.
+  Hi there! My name is Jefferson Monteiro, I'm graduated in Systems Analysis and Development at Estácio de Sá University - UNESA, I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at **Instituto Atlântico** as software engineer. Graduating in Software Engineer at PUC- Minas.
  
 
    ##
@@ -42,7 +42,7 @@
 
 
 
-  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: The Theory of Everything, written by: Jane Hawking. My main hobbies are playing musical instruments, singing and playing a good match of soccer and enjoy surfboard.
+  I like to read good drama, science fiction, autobiographies and adventure books. My favorite book so far is: Narnia Cronics, written by: CS Lewis. My main hobbies are playing musical instruments, singing and playing a good match of soccer and enjoy surfboard.
  
 
    ##
